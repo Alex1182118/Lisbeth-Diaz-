@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{AFE2390D-1BFB-45E5-8298-05413DADC374}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tarea_Lab3/Controllers/EmpresaController.cs">
+    <Files>
+      <File FileName="Tarea_Lab3/ArbolBinario/Nodo.cs" Line="16" Column="22" />
+      <File FileName="Tarea_Lab3/ArbolBinario/Farmaco.cs" Line="10" Column="75" />
+      <File FileName="Tarea_Lab3/ArbolBinario/FarmacoNodo.cs" Line="13" Column="42" />
+      <File FileName="Tarea_Lab3/ArbolBinario/Archivos.cs" Line="1" Column="1" />
+      <File FileName="Tarea_Lab3/ArbolBinario/BinaryTree.cs" Line="64" Column="2" />
+      <File FileName="Tarea_Lab3/Controllers/EmpresaController.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tarea_Lab3" expanded="True">
+            <Node name="Tarea_Lab3" expanded="True">
+              <Node name="ArbolBinario" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="EmpresaController.cs" selected="True" />
+              </Node>
+              <Node name="uploads" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tarea__Lab3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
